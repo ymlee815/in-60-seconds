@@ -39,17 +39,7 @@ Yeongmin Lee
 ---
 
 ## Matlab
-
----
-@title[Customize Slide Layout]
-
-@snap[west span-50]
-## Customize Slide Content Layout
-@snapend
-
-@snap[east span-50]
-![](assets/img/presentation.png)
-@snapend
+![](assets/img/Cardiomyopathy_Dilated.png)
 
 ---?color=#E58537
 @title[Add A Little Imagination]
