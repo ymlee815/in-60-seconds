@@ -1,5 +1,3 @@
-theme : beige
-
 # Elevator pitch
 
 20183431
@@ -44,8 +42,8 @@ Yeongmin Lee
 ## Matlab
 @snapend
 
-@snap[south size-03]
-https://en.wikipedia.org/wiki/Dilated_cardiomyopathy
+@snap[south]
+[wikipedia](https://en.wikipedia.org/wiki/Dilated_cardiomyopathy)
 @snapend
 
 ---
