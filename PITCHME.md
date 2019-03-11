@@ -23,7 +23,7 @@ Yeongmin Lee
 
 ## Programming language
 
-@snap[west span-50]
+@snap[west]
 - C
 - Java
 - Python
