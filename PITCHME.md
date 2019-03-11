@@ -23,11 +23,13 @@ Yeongmin Lee
 
 ## Programming language
 
+@snap[west span-50]
 - C
 - Java
 - Python
 - Matlab
 - etc
+@snapend
 
 ---
 
