@@ -39,7 +39,7 @@ Yeongmin Lee
 ---
 
 ## Matlab
-![](assets/img/Cardiomyopathy_Dilated.png)
+![](assets/img/Cardiomyopathy_Dilated.png)&size=80% auto
 
 ---?color=#E58537
 @title[Add A Little Imagination]
