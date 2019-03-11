@@ -23,10 +23,10 @@ Yeongmin Lee
 
 ## Programming language
 
-- C
-- Java
 - Python
 - Matlab
+- C
+- Java
 - etc
 
 ---
