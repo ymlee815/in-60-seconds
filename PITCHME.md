@@ -31,6 +31,16 @@ Yeongmin Lee
 
 ---
 
+## Python
+
+- Round function recovery attack on feistel cipher
+- Cube attack on stream cipher
+
+---
+
+## Matlab
+
+---
 @title[Customize Slide Layout]
 
 @snap[west span-50]
