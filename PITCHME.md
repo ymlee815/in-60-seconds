@@ -1,6 +1,7 @@
 # Elevator pitch
 
-20183431 Yeongmin Lee
+20183431
+Yeongmin Lee
 
 ---
 
