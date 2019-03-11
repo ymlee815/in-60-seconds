@@ -38,8 +38,10 @@ Yeongmin Lee
 
 ---?image=assets/img/Cardiomyopathy_Dilated.png&size=auto 80%
 
+@snap[north]
 ## Matlab
-![](assets/img/Cardiomyopathy_Dilated.png)
+@snapend
+
 
 ---?color=#E58537
 @title[Add A Little Imagination]
@@ -47,7 +49,7 @@ Yeongmin Lee
 @snap[north-west]
 #### Add a splash of @color[cyan](**color**) and you are ready to start presenting...
 @snapend
-
+![](assets/img/Cardiomyopathy_Dilated.png)
 @snap[west span-55]
 @ul[spaced text-white]
 - You will be amazed
