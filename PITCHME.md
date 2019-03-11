@@ -36,7 +36,7 @@ Yeongmin Lee
 - Round function recovery attack on feistel cipher
 - Cube attack on stream cipher
 
----
+---?image=assets/img/Cardiomyopathy_Dilated.png&size=auto 80%
 
 ## Matlab
 ![](assets/img/Cardiomyopathy_Dilated.png)
