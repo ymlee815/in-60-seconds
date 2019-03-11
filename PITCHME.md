@@ -43,7 +43,8 @@ Yeongmin Lee
 @snapend
 
 @snap[south]
-https://en.wikipedia.org/wiki/Dilated_cardiomyopathy
+[https://en.wikipedia.org/wiki/Dilated_cardiomyopathy]
+(https://en.wikipedia.org/wiki/Dilated_cardiomyopathy)
 @snapend
 
 ---?color=#E58537
@@ -72,6 +73,4 @@ https://en.wikipedia.org/wiki/Dilated_cardiomyopathy
 ## Now It's Your Turn
 @snapend
 
-@snap[south span-100 text-06]
-[Click here to jump straight into the interactive feature guides in the GitPitch Docs @fa[external-link]](https://gitpitch.com/docs/getting-started/tutorial/)
-@snapend
+
