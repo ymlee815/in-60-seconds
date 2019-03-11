@@ -21,6 +21,16 @@ Yeongmin Lee
 
 ---
 
+## Programming language
+
+- C
+- Java
+- Python
+- Matlab
+- etc
+
+---
+
 @title[Customize Slide Layout]
 
 @snap[west span-50]
