@@ -17,7 +17,7 @@ Yeongmin Lee
 
 - Master student
 - Prof. Jooyoung Lee
-- Provable security or attacks on cryptographic primitives
+- Provable security or attack on cryptographic primitives
 
 ---
 
