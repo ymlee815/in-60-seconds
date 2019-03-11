@@ -5,7 +5,7 @@ Yeongmin Lee
 
 ---
 
-## Add Some Slide Candy
+## Profile
 
 ![](assets/img/presentation.png)
 
