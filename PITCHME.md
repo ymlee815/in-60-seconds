@@ -42,8 +42,7 @@ Yeongmin Lee
 ## Matlab
 @snapend
 
-@snap[south]
-[https://en.wikipedia.org/wiki/Dilated_cardiomyopathy]
+@snap[south size-3]
 (https://en.wikipedia.org/wiki/Dilated_cardiomyopathy)
 @snapend
 
