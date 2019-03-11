@@ -1,9 +1,11 @@
 # Elevator pitch
 
+@snap[west span-50]
 @ul[spaced text-white] 
 20183431
 Yeongmin Lee
 @ulend
+@snapend
 
 ---
 
