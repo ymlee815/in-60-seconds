@@ -7,7 +7,9 @@ Yeongmin Lee
 
 ## Profile
 
-![](assets/img/presentation.png)
+- KAIST
+- major : mathematics
+- submajor : computer science
 
 ---
 @title[Customize Slide Layout]
