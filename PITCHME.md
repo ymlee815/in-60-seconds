@@ -12,6 +12,15 @@ Yeongmin Lee
 - submajor : computer science
 
 ---
+
+## In GSIS,
+
+- Master student
+- Prof. Jooyoung Lee
+- Provable security or attacks on cryptographic primitives
+
+---
+
 @title[Customize Slide Layout]
 
 @snap[west span-50]
