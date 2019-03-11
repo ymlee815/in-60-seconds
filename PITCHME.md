@@ -42,8 +42,8 @@ Yeongmin Lee
 ## Matlab
 @snapend
 
-@snap[south size-3]
-(https://en.wikipedia.org/wiki/Dilated_cardiomyopathy)
+@snap[south size-03]
+(given byhttps://en.wikipedia.org/wiki/Dilated_cardiomyopathy)
 @snapend
 
 ---?color=#E58537
