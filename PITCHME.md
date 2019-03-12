@@ -13,14 +13,6 @@ Yeongmin Lee
 
 ---
 
-## In GSIS,
-
-- Master student
-- Prof. Jooyoung Lee
-- Provable security or attack on ciphers
-
----
-
 ## Programming language
 
 - Python
@@ -28,6 +20,14 @@ Yeongmin Lee
 - C
 - Java
 - etc
+
+---
+
+## In GSIS,
+
+- Master student
+- Prof. Jooyoung Lee
+- Provable security or attack on ciphers
 
 ---
 
