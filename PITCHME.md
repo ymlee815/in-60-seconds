@@ -53,7 +53,7 @@ Yeongmin Lee
 @snapend
 
 @snap[south]
-[wikipedia](https://en.wikipedia.org/wiki/Dilated_cardiomyopathy)
+[wikipedia](http://www.gwanggyomed.com/xe/ultrasonicwaves02)
 @snapend
 
 ---
