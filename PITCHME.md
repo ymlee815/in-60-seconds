@@ -46,7 +46,7 @@ Yeongmin Lee
 [wikipedia](https://en.wikipedia.org/wiki/Dilated_cardiomyopathy)
 @snapend
 
----?image=assets/img/ultrasonicwaves.jpg&size=auto 50%
+---?image=assets/img/ultrasonicwaves.jpg&size=auto 30%
 
 @snap[north]
 ## Matlab
