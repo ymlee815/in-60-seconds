@@ -1,4 +1,4 @@
-# Elevator pitch
+# Introduction of me
 
 20183431
 Yeongmin Lee
